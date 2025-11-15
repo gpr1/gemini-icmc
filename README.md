@@ -1,6 +1,6 @@
 # Gemini-ICMC [![Build Status](https://github.com/anishathalye/gemini/actions/workflows/ci.yml/badge.svg)](https://github.com/anishathalye/gemini/actions/workflows/ci.yml)
 
-Gemini-ICMC é um template não oficial de pôster com as cores e logo do Instituto de Ciências Matemáticas e de Computação da Universidade de São Paulo (ICMC-USP) derivado de [Gemini] e feito seguindo o manual de [identidade visual].
+Gemini-ICMC é um template não oficial de pôster com as cores e logo do Instituto de Ciências Matemáticas e de Computação da Universidade de São Paulo (ICMC-USP) derivado de [Gemini] e feito seguindo o [manual de identidade visual do ICMC].
 
 <p align="center">
 <a href="https://github.com/gpr1/gemini-icmc/blob/master/poster.pdf">
@@ -80,7 +80,7 @@ Contributions to Gemini such as bug reports, new themes, and new poster componen
 
 Copyright (c) Anish Athalye. Released under the MIT License. See [LICENSE.md][license] for details.
 
-[identidade visual]: https://portal-teste.icmc.usp.br/institucional/estrutura-administrativa/secao-de-apoio-institucional/identidade-visual
+[manual de identidade visual do ICMC]: https://portal-teste.icmc.usp.br/institucional/estrutura-administrativa/secao-de-apoio-institucional/identidade-visual
 [Gemini]: https://github.com/anishathalye/gemini
 [beamerposter]: https://github.com/deselaers/latex-beamerposter
 [LuaTeX]: http://www.luatex.org/
