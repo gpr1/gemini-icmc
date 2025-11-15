@@ -1,14 +1,12 @@
-# Gemini [![Build Status](https://github.com/anishathalye/gemini/actions/workflows/ci.yml/badge.svg)](https://github.com/anishathalye/gemini/actions/workflows/ci.yml)
+# Gemini-ICMC [![Build Status](https://github.com/anishathalye/gemini/actions/workflows/ci.yml/badge.svg)](https://github.com/anishathalye/gemini/actions/workflows/ci.yml)
 
-Gemini is a modern LaTeX [beamerposter] theme.
+Gemini-ICMC é um template não oficial de pôster com as cores e logo do ICMC-USP (conforme o manual de [identidade visual]) derivado de [Gemini].
 
 <p align="center">
-<a href="https://raw.githubusercontent.com/anishathalye/assets/master/gemini/poster-gemini.pdf">
-<img src="https://raw.githubusercontent.com/anishathalye/assets/master/gemini/poster-gemini-small.png">
+<a href="https://github.com/gpr1/gemini-icmc/blob/master/poster.pdf">
+<img src="https://github.com/gpr1/gemini-icmc/blob/master/poster.png">
 </a>
 </p>
-
-If you're looking for a beamer presentation theme, take a look at [Auriga].
 
 ## Dependencies
 
@@ -82,8 +80,9 @@ Contributions to Gemini such as bug reports, new themes, and new poster componen
 
 Copyright (c) Anish Athalye. Released under the MIT License. See [LICENSE.md][license] for details.
 
+[identidade visual]: https://portal-teste.icmc.usp.br/institucional/estrutura-administrativa/secao-de-apoio-institucional/identidade-visual
+[Gemini]: https://github.com/anishathalye/gemini
 [beamerposter]: https://github.com/deselaers/latex-beamerposter
-[Auriga]: https://github.com/anishathalye/auriga
 [LuaTeX]: http://www.luatex.org/
 [CTAN]: https://ctan.org/
 [Raleway]: https://www.fontsquirrel.com/fonts/raleway
