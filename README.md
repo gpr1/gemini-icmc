@@ -1,6 +1,6 @@
 # Gemini-ICMC [![Build Status](https://github.com/anishathalye/gemini/actions/workflows/ci.yml/badge.svg)](https://github.com/anishathalye/gemini/actions/workflows/ci.yml)
 
-Gemini-ICMC é um template não oficial de pôster com as cores e logo do ICMC-USP (conforme o manual de [identidade visual]) derivado de [Gemini].
+Gemini-ICMC é um template não oficial de pôster com as cores e logo do Instituto de Ciências Matemáticas e de Computação da Universidade de São Paulo (ICMC-USP) derivado de [Gemini] e feito seguindo o manual de [identidade visual].
 
 <p align="center">
 <a href="https://github.com/gpr1/gemini-icmc/blob/master/poster.pdf">
